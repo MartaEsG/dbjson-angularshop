@@ -1,0 +1,92 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Zapatos Vintage",
+      "price": 49.99,
+      "description": "Bellos zapatos antiguos para Hipsters.",
+      "stars": 4.5,
+      "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Máquina de escribir",
+      "price": 109.99,
+      "description": "Bonita máquina de escribir antigua.",
+      "stars": 4.2,
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+    },
+    {
+      "name": "Boligrafos de colores",
+      "price": 1.99,
+      "description": "Estupendos bolígrafos de colores.",
+      "stars": 1,
+      "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "stars": 4,
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": 1,
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "name": "Gatito",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...",
+      "stars": 3,
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg",
+      "id": 8
+    },
+    {
+      "name": "Rastrillo",
+      "price": "15.90",
+      "description": "rastrillo de jardinería",
+      "stars": "3.6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4B2VL5KVGB3CeD8OVcUMLTDSwQIg1_E3HJVxm1aj9aJibSUzQW3mMUjU5H8RtJU_E-Q&usqp=CAU",
+      "id": 10
+    },
+    {
+      "name": "Blusa",
+      "price": "29.99",
+      "description": "Blusa de manga corta y de color rosa",
+      "stars": "5",
+      "image": "https://mallorcavestuarios.com/13536-large_default/blusa-oxford-manga-corta-mujer.jpg",
+      "id": 11
+    },
+    {
+      "name": "Pendientes",
+      "price": "10.50",
+      "description": "pendientes de aro de color dorado",
+      "stars": "4",
+      "image": "https://www.antoniocumplido.com/14954-large_default/pendientes-plata-viceroy-aro-dorado-grande.jpg",
+      "id": 13
+    }
+  ]
+}
